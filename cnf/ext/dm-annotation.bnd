@@ -1,0 +1,2 @@
+dm-annotations: \
+	${plugin-dir}/org.apache.felix.dependencymanager.annotation.jar;version=file
